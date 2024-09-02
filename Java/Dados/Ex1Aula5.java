@@ -2,7 +2,7 @@ package aula5;
 
 import java.util.Scanner;
 
-public class Ex1 {
+public class Ex1Aula5 {
 	public static void main(String[]args) {
 		Scanner in = new Scanner(System.in);
 		String dataeua = in.nextLine();
