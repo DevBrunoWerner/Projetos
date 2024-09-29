@@ -9,6 +9,7 @@ public static void main (String[]args) {
 	System.out.println("Digite um numero de dois digitos");
 	B = in.nextInt();
 	encaixa(A, B);
+	in.close();
 }
 
 public static void encaixa (int A, int B){

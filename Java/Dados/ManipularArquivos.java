@@ -1,4 +1,4 @@
-package aula5;
+package Dados;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -45,15 +45,6 @@ public class ManipularArquivos {
 			e.printStackTrace();
 		}
     }
-
-    private static void LendoArquivo() {
-        String linha;
-        try {
-            while ((linha = bi.readLine()) != null) {
-                System.out.println(linha);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
 }
+
+

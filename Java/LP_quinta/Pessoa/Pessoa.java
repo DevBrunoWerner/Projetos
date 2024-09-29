@@ -15,6 +15,6 @@ public class Pessoa {
 																	}
 																		public void setCpf(int cpf){
 																				this.cpf = cpf;
-																					}r 
+																					}
 																					 
 																					 }

@@ -1,5 +1,4 @@
-package aula5;
-
+package Dados;
 import java.util.Scanner;
 
 public class Ex1Aula5 {

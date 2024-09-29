@@ -6,7 +6,7 @@ class ex3 {
         Scanner in = new Scanner(System.in); 
         System.out.println("Digite qualquer palavra: ");
         String str = in.nextLine();
-        str = str.toLowerCase();md
+        str = str.toLowerCase();
 		String mod = str.replace('a', '*');
 		System.out.println("Palavra sem modificacao" + str);
         System.out.println("Palavra modificada" + mod);		
