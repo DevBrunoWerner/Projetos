@@ -1,0 +1,2 @@
+ALTER TABLE produto
+MODIFY COLUMN desc_produto VARCHAR(50);
