@@ -1,0 +1,5 @@
+ALTER TABLE itens 
+DROP PRIMARY KEY;
+
+ALTER TABLE itens 
+ADD CONSTRAINT pk_itens PRIMARY KEY(num_item);

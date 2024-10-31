@@ -1,0 +1,1 @@
+RENAME TABLE nota_fiscal TO Venda;
