@@ -1,0 +1,2 @@
+SELECT * FROM CONTAS 
+WHERE YEAR(vencimento) = 2017;
